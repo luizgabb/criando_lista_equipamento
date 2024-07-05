@@ -1,0 +1,1 @@
+# criando_lista_equipamento
